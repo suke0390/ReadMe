@@ -18,7 +18,10 @@
 - Second item
 - Third item
 
-`` Use `code` in your Markdown file. ``
+```
+    Use`code` in your Markdown file.
+
+```
 
 ---
 
@@ -32,11 +35,13 @@
 | Paragraph | Text        |
 
 ```
+
 {
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
+"firstName": "John",
+"lastName": "Smith",
+"age": 25
 }
+
 ```
 
 Here's a sentence with a footnote. [^1]
