@@ -6,7 +6,7 @@
 
 **bold text**
 
-_italicized text_
+**_italicized text_**
 
 > blockquote
 
