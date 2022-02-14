@@ -23,6 +23,8 @@
 
 ```
 
+`Use code in your Markdown file.`
+
 ---
 
 [title](https://www.example.com)
